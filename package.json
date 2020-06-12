@@ -1,10 +1,10 @@
 {
   "name": "immutability-helper-extension",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "immutability-helper-extension",
   "main": "build/index.es.js",
   "browser": "build/index.umd.js",
-  "typings": "build/index.d.ts",
+  "typings": "build/immutability-helper-extension.d.ts",
   "scripts": {
     "build": "rollup -c",
     "test": "jest --coverage"
